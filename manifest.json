@@ -1,6 +1,5 @@
 {
     "id": "debug-editor-plugin",
-    "uuid": "edbp-debug-editor",
     "name": "Debug & Internal Editor",
     "author": "EDBPlugin",
     "version": "1.2.0",
