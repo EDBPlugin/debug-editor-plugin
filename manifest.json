@@ -3,7 +3,7 @@
     "uuid": "edbp-debug-editor",
     "name": "Debug & Internal Editor",
     "author": "EDBPlugin",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "プラグインの内部コードを編集し、システムデバッグ情報を表示する開発者向けツールです。",
     "repo": "https://github.com/EDBPlugin/debug-editor-plugin",
     "affectsStyle": false,
