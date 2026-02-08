@@ -1,0 +1,10 @@
+{
+    "id": "debug-editor-plugin",
+    "name": "Debug & Internal Editor",
+    "author": "EDBPlugin",
+    "version": "1.0.0",
+    "description": "プラグインの内部コードを編集し、システムデバッグ情報を表示する開発者向けツールです。",
+    "affectsStyle": false,
+    "affectsBlocks": false,
+    "isCustom": true
+}
