@@ -7,5 +7,6 @@
     "repo": "https://github.com/EDBPlugin/debug-editor-plugin",
     "affectsStyle": false,
     "affectsBlocks": false,
-    "isCustom": true
+    "isCustom": true,
+    "minAppVersion": "1.0.0"
 }
